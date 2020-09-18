@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8f984dc7d9dd4f2638fc125472f7594",
+    "revision": "51f4bbcba96627c16737e369c7c28157",
     "url": "/shopify-multipass-demo/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopify-multipass-demo/static/js/2.f0713a58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4ebcef31ca1491a832a",
-    "url": "/shopify-multipass-demo/static/js/main.e16cf417.chunk.js"
+    "revision": "239fd80606d11af7aa24",
+    "url": "/shopify-multipass-demo/static/js/main.30ee326f.chunk.js"
   },
   {
     "revision": "33bc3208d5cccde9c5ba",
