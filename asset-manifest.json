@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/shopify-multipass-demo/static/js/main.0d002f6a.chunk.js",
-    "main.js.map": "/shopify-multipass-demo/static/js/main.0d002f6a.chunk.js.map",
+    "main.js": "/shopify-multipass-demo/static/js/main.e16cf417.chunk.js",
+    "main.js.map": "/shopify-multipass-demo/static/js/main.e16cf417.chunk.js.map",
     "runtime-main.js": "/shopify-multipass-demo/static/js/runtime-main.8ca56a2e.js",
     "runtime-main.js.map": "/shopify-multipass-demo/static/js/runtime-main.8ca56a2e.js.map",
-    "static/js/2.5e2e102c.chunk.js": "/shopify-multipass-demo/static/js/2.5e2e102c.chunk.js",
-    "static/js/2.5e2e102c.chunk.js.map": "/shopify-multipass-demo/static/js/2.5e2e102c.chunk.js.map",
+    "static/js/2.f0713a58.chunk.js": "/shopify-multipass-demo/static/js/2.f0713a58.chunk.js",
+    "static/js/2.f0713a58.chunk.js.map": "/shopify-multipass-demo/static/js/2.f0713a58.chunk.js.map",
     "index.html": "/shopify-multipass-demo/index.html",
-    "precache-manifest.1456779e966ccb719ad29e7e5b1b770a.js": "/shopify-multipass-demo/precache-manifest.1456779e966ccb719ad29e7e5b1b770a.js",
+    "precache-manifest.7e898173f3dde117849439ee9c34f667.js": "/shopify-multipass-demo/precache-manifest.7e898173f3dde117849439ee9c34f667.js",
     "service-worker.js": "/shopify-multipass-demo/service-worker.js",
-    "static/js/2.5e2e102c.chunk.js.LICENSE.txt": "/shopify-multipass-demo/static/js/2.5e2e102c.chunk.js.LICENSE.txt"
+    "static/js/2.f0713a58.chunk.js.LICENSE.txt": "/shopify-multipass-demo/static/js/2.f0713a58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ca56a2e.js",
-    "static/js/2.5e2e102c.chunk.js",
-    "static/js/main.0d002f6a.chunk.js"
+    "static/js/2.f0713a58.chunk.js",
+    "static/js/main.e16cf417.chunk.js"
   ]
 }
