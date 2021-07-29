@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shopify-multipass-demo/precache-manifest.7fdb09a24c53d5716f96c5ce8341faa7.js"
+  "/shopify-multipass-demo/precache-manifest.e92b40026bd7ceda1c481e944ffef0ed.js"
 );
 
 self.addEventListener('message', (event) => {
